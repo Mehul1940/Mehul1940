@@ -119,11 +119,9 @@ I'm currently focusing on improving my skills in:
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> Featured Projects
 
-<div align="center">
-  <a href="[https://github.com/yourusername/project1](https://github.com/Mehul1940/MOBILE_SHOP_WITH_PHP.git)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+<a href="[https://github.com/yourusername/project1](https://github.com/Mehul1940/MOBILE_SHOP_WITH_PHP.git)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project1&theme=tokyonight&hide_border=true" />
+</a>
 
 <!-- Custom Animated Divider -->
 <div align="center">
