@@ -104,17 +104,6 @@ I'm currently focusing on improving my skills in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1940&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul1940&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul1940&theme=tokyonight&no-frame=true&column=7" alt="trophy"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122180-85305dcc-95b4-4475-b92c-05cd5e247a3b.png" width="30" /> Let's Connect!
 
