@@ -1,6 +1,6 @@
-<!-- Animated Wave Banner -->
+<!-- Custom Banner with Name Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mehul%20Bokade&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&stroke=000000&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Mehul%20Bokade&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </p>
 
 <!-- Animated Typing Text with Custom Font -->
@@ -13,10 +13,6 @@
 </div>
 <br/>
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile views badge"/>
-</div>
 <!-- Custom Animated Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
@@ -130,11 +126,17 @@ I'm currently focusing on improving my skills in:
 <!-- Animated Contact Section -->
 <div align="center">
   <h2>📬 Connect With Me</h2>
+  <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bokde-mehul)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bokdemehul)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mehul-bokde)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokdemehul870@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+  
+  <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile views badge"/>
+</div>
+
 </div>
 
 <!-- Animated Footer -->
