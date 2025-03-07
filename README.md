@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text with Custom Font -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hii,I am Mehul Bokade;Full+Stack+Developer;Open-Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open-Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
