@@ -136,3 +136,32 @@ I'm currently focusing on improving my skills in:
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
   <p>⭐️ Feel free to star repositories and contribute to open-source projects!</p>
 </div>
+<p align="center">
+  I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+</p>
+
+<!-- Support Section -->
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" />
+</div>
+
+⭐️ From [mehul1940](https://github.com/mehul1940)
+
