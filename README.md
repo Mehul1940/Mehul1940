@@ -1,11 +1,11 @@
 <!-- Custom Banner with Name Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Mehul%20Bokade&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open-Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- Animated Typing Text with Custom Font -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open-Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
+ 
 </div>
 
 <div align="center">
