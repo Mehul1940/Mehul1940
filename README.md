@@ -1,6 +1,6 @@
-<!-- Custom Banner with Name Animation -->
+<!-- Custom Banner with Enhanced Name Animation -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open-Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Open-Source+Enthusiast;JavaScript+%26+Python+Expert;UI%2FUX+Designer;Cloud+Architecture+Specialist;Problem+Solver+%26+Innovator" alt="Developer Skills Animation" />
 </p>
 
 <!-- Animated Typing Text with Custom Font -->
