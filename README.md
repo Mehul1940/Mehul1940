@@ -53,18 +53,65 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 ## 🚀 Tech Stack
 
-<!-- Animated Skill Icons with Hover Effects -->
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,aws,docker,git,github,py,django,flutter,redux,tailwind,figma&perline=8" alt="Skill Icons" />
-  </div>
+  
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+  ### Backend
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+  ### Databases
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  ### Tools & DevOps
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<!-- Animated GitHub Stats -->
+<!-- Animated Skill Bars -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehul1940&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD4724&ring=38BDF8" alt="GitHub Streak" height="200">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul1940&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" height="200">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,figma,mysql,python,php,aws,docker,vscode&perline=9" />
 </div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-00lYLoSQ-6eb4-4caa-a11c-217eae787416.png" width="30" /> Currently Learning
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+
+I'm currently focusing on improving my skills in:
+- Improving my skill in Mern Stack
+- Improving my skill in js and type script
+- Improving my self in UI
+- Improving my skill in Backend
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua" width="100%">
+</div>
+
+
 
 ## 🌟 Featured Projects
 
