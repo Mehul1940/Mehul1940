@@ -57,8 +57,7 @@ I'm a passionate full stack developer from India who loves building elegant solu
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored" width="100%">
 </div>
 
-## <img src="![image](https://github.com/user-attachments/assets/25919963-031c-488c-a070-bf89be2fa5b8)
-" width="30" /> Tech Stack
+## <img src="![image](https://github.com/user-attachments/assets/25919963-031c-488c-a070-bf89be2fa5b8)" height="30" width="30" /> Tech Stack
 
 <div align="center">
   
