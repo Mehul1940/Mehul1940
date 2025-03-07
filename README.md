@@ -69,7 +69,7 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 <!-- Animated Skill Bars -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,figma,mysql,python,php,aws,docker,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,figma,mysql,python,php,vscode&perline=9" />
 </div>
 
 <!-- Custom Animated Divider -->
