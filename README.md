@@ -100,6 +100,15 @@ I'm currently focusing on improving my skills in:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://github.com/Mehul1940/MOBILE_SHOP_WITH_PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE_SHOP_WITH_PHP&theme=radical&show_owner=true" alt="Mobile Shop Project">
+    <p>📈 Project Highlights Handled 500+ concurrent users during stress testing
+
+Reduced page load time to <1.5s through query optimization
+
+Implemented caching mechanism for frequently accessed data
+
+Developed automated backup system for database
+
+Integrated Twilio API for SMS notifications</p>
   </a>
 </div>
 
