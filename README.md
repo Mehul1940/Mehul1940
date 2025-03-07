@@ -96,7 +96,7 @@ I'm a passionate full stack developer from India who loves building elegant solu
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-00lYLoSQ-6eb4-4caa-a11c-217eae787416.png" width="30" /> Currently Learning
+### Currently Learning
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
@@ -119,9 +119,6 @@ I'm currently focusing on improving my skills in:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://github.com/Mehul1940/MOBILE_SHOP_WITH_PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE_SHOP_WITH_PHP&theme=radical&show_owner=true" alt="Mobile Shop Project">
-  </a>
-  <a href="https://github.com/Mehul1940/CODSOFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=CODSOFT&theme=merko&show_owner=true" alt="CodSoft Projects">
   </a>
 </div>
 
