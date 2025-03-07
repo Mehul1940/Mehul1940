@@ -57,7 +57,8 @@ I'm a passionate full stack developer from India who loves building elegant solu
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored" width="100%">
 </div>
 
-## <img src="[https://user-images.githubusercontent.com/74038190/216112563-8848f299-bb10-4fe2-91c9-be376e881b17.png](https://www.freepik.com/free-vector/big-data-processing-concept-server-room-blockchain-technology-token-access_3629651.htm#fromView=keyword&page=1&position=1&uuid=e0d40761-a612-4010-a942-e962bbddfdd9&query=Tech+Stack)" width="30" /> Tech Stack
+## <img src="![image](https://github.com/user-attachments/assets/25919963-031c-488c-a070-bf89be2fa5b8)
+" width="30" /> Tech Stack
 
 <div align="center">
   
