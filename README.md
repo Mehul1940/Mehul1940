@@ -142,6 +142,5 @@ I'm currently focusing on improving my skills in:
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-  <img src="https://visitcount.itsvg.in/api?id=mehul1940&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visitor Counter">
   <p>⭐️ Feel free to star repositories and contribute to open-source projects!</p>
 </div>
