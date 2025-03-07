@@ -1,11 +1,11 @@
-<!-- Banner Header -->
+<!-- Custom Banner with Name Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="120">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Mehul%20Bokade&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehul+Bokade!;" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+a+Full+Stack+Developer;Welcome+to+My+GitHub!;Let's+Build+Something+Amazing!" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -13,18 +13,34 @@
 
 <br/>
 
+<!-- Spotify Now Playing -->
+<div align="center">
+  
+  [![Spotify](https://novatorem-sigma-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31da7xbuax3jrj5xrctdpkelzr4a)
+  
+</div>
+
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bokde-mehul)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bokdemehul)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mehul-bokde)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokdemehul870@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
   
   <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile views badge"/>
 </div>
 
+<!-- 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <a href="https://github.com/mehul1940">
+    <img src="https://github-profile-3d-contrib.vercel.app/api/username=mehul1940&theme=tokyonight&range=last_year" />
+  </a>
+</div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
@@ -38,10 +54,17 @@ I'm a passionate full stack developer from India who loves building elegant solu
 - 🔭 Currently working on enhancing my skills in cloud architecture
 - 🌱 Learning DevOps practices and AI/ML integration
 - 💬 Ask me about anything related to MERN stack and related technologies
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 </p>
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored" width="100%">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112563-8848f299-bb10-4fe2-91c9-be376e881b17.png" width="30" /> Tech Stack
@@ -73,14 +96,22 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  ### Tools
+  ### Tools & DevOps
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
+<!-- Animated Skill Bars -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,figma,mysql,python,php,aws,docker,vscode&perline=9" />
+</div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire" width="100%">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-00lYLoSQ-6eb4-4caa-a11c-217eae787416.png" width="30" /> Currently Learning
@@ -92,18 +123,57 @@ I'm currently focusing on improving my skills in:
 - 🔄 DevOps practices (Docker, Kubernetes, CI/CD)
 - 🤖 AI/ML integration in web applications
 - 📱 Advanced mobile app development techniques
+- 🔒 Cybersecurity best practices
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="aqua" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" alt="dark" width="100%">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216125640-2489acd6-7f4e-407b-99ee-f98c143e8fa3.png" width="30" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehul1940&theme=tokyonight" alt="github profile summary">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehul1940&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1940&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul1940&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehul1940&theme=tokyonight&no-frame=true&column=7" alt="trophy"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" alt="Activity Graph">
+</div>
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122180-85305dcc-95b4-4475-b92c-05cd5e247a3b.png" width="30" /> Let's Connect!
 
@@ -123,10 +193,19 @@ I'm currently focusing on improving my skills in:
   I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 </p>
 
+<!-- Support Section -->
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  </a>
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
+<!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
