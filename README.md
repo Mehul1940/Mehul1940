@@ -13,12 +13,6 @@
 
 <br/>
 
-<!-- Spotify Now Playing -->
-<div align="center">
-  
-  [![Spotify](https://novatorem-sigma-seven.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31da7xbuax3jrj5xrctdpkelzr4a)
-  
-</div>
 
 <div align="center">
   
@@ -57,10 +51,6 @@ I'm a passionate full stack developer from India who loves building elegant solu
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 </p>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 <!-- Custom Animated Divider -->
 <div align="center">
@@ -100,8 +90,6 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
 <!-- Animated Skill Bars -->
@@ -119,11 +107,10 @@ I'm a passionate full stack developer from India who loves building elegant solu
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 I'm currently focusing on improving my skills in:
-- 🚀 Cloud Architecture (AWS, Azure, GCP)
-- 🔄 DevOps practices (Docker, Kubernetes, CI/CD)
-- 🤖 AI/ML integration in web applications
-- 📱 Advanced mobile app development techniques
-- 🔒 Cybersecurity best practices
+- Improving my skill in Mern Stack
+- Improving my skill in js and type script
+- Improving my self in UI
+- Improving my skill in Backend
 
 <!-- Custom Animated Divider -->
 <div align="center">
@@ -133,11 +120,8 @@ I'm currently focusing on improving my skills in:
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="[https://github.com/yourusername/project1](https://github.com/Mehul1940/MOBILE_SHOP_WITH_PHP.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -157,13 +141,6 @@ I'm currently focusing on improving my skills in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehul1940&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul1940&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul1940&theme=tokyonight&no-frame=true&column=7" alt="trophy"/>
-</div>
 
 <!-- Activity Graph -->
 <div align="center">
