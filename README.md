@@ -55,7 +55,7 @@ I'm currently focusing on improving my skills in:
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/bokde-mehul) or drop me an email at [your-email@example.com].
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out via [LinkedIn](https://linkedin.com/in/bokde-mehul) or drop me an email at [bokdemehul870@gmail.com].
 
 ---
 
