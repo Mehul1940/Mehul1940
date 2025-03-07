@@ -24,6 +24,32 @@
   
   <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile views badge"/>
 </div>
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<p align="left">
+I'm a passionate full stack developer from India who loves building elegant solutions to complex problems. With expertise in both frontend and backend technologies, I create seamless digital experiences that make a difference.
+
+- 💻 Full Stack Developer | Problem Solver | Continuous Learner
+- 🔭 Currently working on enhancing my skills in cloud architecture
+- 🌱 Learning DevOps practices and AI/ML integration
+- 💬 Ask me about anything related to MERN stack and related technologies
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+</p>
+
+
+<!-- Custom Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored" width="100%">
+</div>
+
+
 
 ## 🚀 Tech Stack
 
