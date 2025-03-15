@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://i.imgur.com/qwQsGpK.gif" width="600" alt="Developer animation">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 <br/>
 
-<!-- Animated Header Divider -->
+<!-- Custom Animated Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=header&animation=fadeIn&fontAlignY=38&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
 </div>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
