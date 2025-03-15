@@ -141,10 +141,6 @@ I'm currently focusing on improving my skills in:
 </div>
 
 </div>
-<!-- Learning Section Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 
 <!-- Support Section -->
@@ -164,6 +160,17 @@ I'm currently focusing on improving my skills in:
 </div>
 
 
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" />
 </div>
+
+⭐️ From [mehul1940](https://github.com/mehul1940)
+
+
