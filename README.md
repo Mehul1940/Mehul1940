@@ -3,9 +3,9 @@
 </div>
 <br/>
 
-<!-- Custom Animated Divider -->
+<!-- Learning Section Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
@@ -24,9 +24,9 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 <br>
 
-<!-- Animated Skills Divider -->
+<!-- Learning Section Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="colorful divider" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
@@ -74,11 +74,11 @@ I'm a passionate full stack developer from India who loves building elegant solu
 <img align="right" src="https://camo.githubusercontent.com/18ae9809d7ae8a378be4b81a09f2a0005ef26c1980a675d846050e89b9a0f39f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f39423877597a74416f65317a4f2f736f757263652e676966" width="400">
 
 I'm currently focusing on improving my skills in:
-- ⚛️ Advanced React patterns and performance optimization
-- 📱 Cross-platform mobile development with React Native
-- 🌐 Microservices architecture with Node.js
-- ☁️ Cloud deployment strategies (AWS, Azure, GCP)
-- 🧠 Machine Learning integration in web applications
+
+- ⚛️ Improving my skill in Mern Stack
+- 📱 Improving my skill in js and type script
+- ☁️ Improving my self in UI
+- 🧠 Improving my skill in Backend
 
 <!-- Projects Section Divider -->
 <div align="center">
