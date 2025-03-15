@@ -104,9 +104,15 @@ I'm currently focusing on improving my skills in:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 <!-- Animated Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%">
+</div>
+
+<!-- Learning Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 📈 GitHub Analytics
@@ -114,6 +120,10 @@ I'm currently focusing on improving my skills in:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1940&theme=github_dark" alt="Language Stats" height="200">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1940&theme=github_dark" alt="Repo Stats" height="200">
+</div>
+<!-- Learning Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- Animated Contact Section -->
@@ -131,6 +141,10 @@ I'm currently focusing on improving my skills in:
 </div>
 
 </div>
+<!-- Learning Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 
 <!-- Support Section -->
@@ -139,6 +153,10 @@ I'm currently focusing on improving my skills in:
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
   </a>
+</div>
+<!-- Learning Section Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
