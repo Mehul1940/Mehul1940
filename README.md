@@ -85,7 +85,7 @@ I'm currently focusing on improving my skills in:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Featured Projects
+## 🌟 Featured Projects
 
 <!-- Animated Project Cards -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -100,37 +100,11 @@ I'm currently focusing on improving my skills in:
   </a>
 </div>
 
-<!-- Animated Stats Section -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehul1940&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehul1940&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%">
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <br>
-  <a href="https://github.com/mehul1940/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&bg_color=1a1b27&color=628fda&line=38bdae&point=ffbfbf&area=true&hide_border=true" width="95%">
-  </a>
-</div>
-
-<!-- Analytics Section Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehul1940&theme=radical" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1940&theme=radical" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1940&theme=radical" width="49%">
-</div>
-
-<!-- Connect Section Divider -->
+<!-- Learning Section Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6554170d-4d8a-4de3-9174-ed2c117495fd.gif" width="30"> Connect With Me
 
