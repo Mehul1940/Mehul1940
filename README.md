@@ -10,7 +10,7 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
 
-<img align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="360">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 <p align="left">
 I'm a passionate full stack developer from India who loves building elegant solutions to complex problems. With expertise in both frontend and backend technologies, I create seamless digital experiences that make a difference.
@@ -71,7 +71,7 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Currently Learning
 
-<img align="right" src="https://camo.githubusercontent.com/18ae9809d7ae8a378be4b81a09f2a0005ef26c1980a675d846050e89b9a0f39f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f39423877597a74416f65317a4f2f736f757263652e676966" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 I'm currently focusing on improving my skills in:
 
@@ -104,7 +104,33 @@ I'm currently focusing on improving my skills in:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+<!-- Animated Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%">
+</div>
 
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1940&theme=github_dark" alt="Language Stats" height="200">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1940&theme=github_dark" alt="Repo Stats" height="200">
+</div>
+
+<!-- Animated Contact Section -->
+<div align="center">
+  <h2>📬 Connect With Me</h2>
+  <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bokde-mehul)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bokdemehul)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mehul-bokde)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokdemehul870@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+  
+  <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile views badge"/>
+</div>
+
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6554170d-4d8a-4de3-9174-ed2c117495fd.gif" width="30"> Connect With Me
 
