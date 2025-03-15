@@ -64,16 +64,6 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<!-- Animated Skill Icons -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,figma,mysql,python,php,vscode&perline=8" />
-</div>
-
-<!-- Animated Stats Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul1940&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
-</div>
-
 <!-- Learning Section Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
