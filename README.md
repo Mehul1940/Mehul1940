@@ -132,33 +132,6 @@ I'm currently focusing on improving my skills in:
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6554170d-4d8a-4de3-9174-ed2c117495fd.gif" width="30"> Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/bokde-mehul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/bokdemehul" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://fb.com/mehul-bokde" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:bokdemehul870@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=mehul1940&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views badge"/>
-</div>
-
-<p align="center">
-  I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-</p>
 
 <!-- Support Section -->
 <div align="center">
@@ -172,10 +145,6 @@ I'm currently focusing on improving my skills in:
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=130&section=footer&animation=fadeIn&fontAlignY=38"/>
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" />
