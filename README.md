@@ -159,14 +159,6 @@ I'm currently focusing on improving my skills in:
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" />
 </div>
