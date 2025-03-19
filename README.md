@@ -90,7 +90,7 @@ I'm currently focusing on improving my skills in:
 <!-- Animated Project Cards -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <a href="https://github.com/Mehul1940/MOBILE-SHOP-WITH-PHP.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE_SHOP_WITH_PHP&theme=radical&show_owner=true" alt="Mobile Shop Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE-SHOP-WITH-PHP&theme=radical&show_owner=true" alt="Mobile Shop Project">
   </a>
   <a href="https://github.com/Mehul1940/Python.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Python&theme=radical&show_owner=true" alt="Python Project">
