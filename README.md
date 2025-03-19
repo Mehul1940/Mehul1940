@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" style="border-radius:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
 </div>
 <br/>
 
-<!-- Learning Section Divider -->
+<!-- Animated Section Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" style="border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
 
 <p align="left">
 I'm a passionate full stack developer from India who loves building elegant solutions to complex problems. With expertise in both frontend and backend technologies, I create seamless digital experiences that make a difference.
@@ -24,14 +24,14 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 <br>
 
-<!-- Learning Section Divider -->
+<!-- Animated Wave Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
   
   ### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,14 +64,16 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<!-- Learning Section Divider -->
+<!-- Animated Matrix Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Currently Learning
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" style="border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4); margin-left: 20px;">
+
+<div style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
 I'm currently focusing on improving my skills in:
 
@@ -80,54 +82,57 @@ I'm currently focusing on improving my skills in:
 - ☁️ Improving my self in UI
 - 🧠 Improving my skill in Backend
 
-<!-- Projects Section Divider -->
+</div>
+
+<!-- Animated Tech Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ## 🌟 Featured Projects
 
-<!-- Animated Project Cards -->
+<!-- Animated Project Cards with Hover Effects -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://github.com/Mehul1940/MOBILE-SHOP-WITH-PHP.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE_SHOP_WITH_PHP&theme=radical&show_owner=true" alt="Mobile Shop Project">
+  <a href="https://github.com/Mehul1940/MOBILE-SHOP-WITH-PHP.git" style="text-decoration: none; transition: transform 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=MOBILE_SHOP_WITH_PHP&theme=radical&show_owner=true" alt="Mobile Shop Project" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)';">
   </a>
-  <a href="https://github.com/Mehul1940/Python.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Python&theme=radical&show_owner=true" alt="Python Project">
+  <a href="https://github.com/Mehul1940/Python.git" style="text-decoration: none; transition: transform 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Python&theme=radical&show_owner=true" alt="Python Project" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)';">
   </a>
-  <a href="https://github.com/Mehul1940/Django.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Django&theme=radical&show_owner=true" alt="Django Project">
+  <a href="https://github.com/Mehul1940/Django.git" style="text-decoration: none; transition: transform 0.3s ease;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Django&theme=radical&show_owner=true" alt="Django Project" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.3)';">
   </a>
 </div>
 
-<!-- Learning Section Divider -->
+<!-- Animated Code Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
 </div>
 
-<!-- Animated Activity Graph -->
+<!-- Animated Activity Graph with Enhanced Styling -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehul1940&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
 </div>
 
-<!-- Learning Section Divider -->
+<!-- Animated Rocket Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1940&theme=github_dark" alt="Language Stats" height="200">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1940&theme=github_dark" alt="Repo Stats" height="200">
-</div>
-<!-- Learning Section Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehul1940&theme=github_dark" alt="Language Stats" height="200" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehul1940&theme=github_dark" alt="Repo Stats" height="200" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
 </div>
 
-<!-- Animated Contact Section -->
+<!-- Animated Work Divider -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+</div>
+
+<!-- Animated Contact Section with Gradient Background -->
+<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 20px 0;">
   <h2>📬 Connect With Me</h2>
   <div align="center">
   
@@ -142,27 +147,25 @@ I'm currently focusing on improving my skills in:
 
 </div>
 
-
-<!-- Support Section -->
-<div align="center">
+<!-- Support Section with Animated Background -->
+<div align="center" style="background: linear-gradient(to right, #4568dc, #b06ab3); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 20px 0;">
   <h3>☕ Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
   </a>
 </div>
-<!-- Learning Section Divider -->
+
+<!-- Final Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-92eb-4c9e-8965-f5b359b9f499.gif" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" style="border-radius:15px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+some+of+my+repositories+if+you+like!;Let's+connect+and+build+something+amazing!" style="margin-top: 20px;"/>
 </div>
 
 ⭐️ From [mehul1940](https://github.com/mehul1940)
-
-
