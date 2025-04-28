@@ -36,16 +36,12 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
   ### Backend
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -62,43 +58,12 @@ I'm a passionate full stack developer from India who loves building elegant solu
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
   ### Tools & DevOps
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </div>
-
-<!-- Learning Section Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🏆 Production-Level Experience
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219925470-53d46517-1d8e-4a29-96e3-cfc3eaa8127e.png" width="370">
-
-### Advanced CSS Implementations
-- **Performance Optimization**: Implemented critical CSS techniques, reducing page load times by 40%
-- **CSS Architecture**: Created scalable CSS architectures (SMACSS, ITCSS) for enterprise applications
-- **Animations & Transitions**: Developed custom, performant animations with CSS keyframes and transitions
-- **Cross-Browser Compatibility**: Expert in handling edge cases and browser-specific implementations
-- **CSS Grid & Flexbox**: Built complex responsive layouts with modern CSS methodologies
-- **CSS Preprocessors**: Implemented sophisticated Sass modules with mixins, functions, and variables
-- **Dark Mode Implementation**: Created complete theming systems with CSS custom properties
-- **Accessibility**: Built UIs following WCAG 2.1 AA standards with proper color contrast and focus states
-
-### Framework Customization
-- **Custom Design Systems**: Built reusable component libraries with Styled Components and CSS Modules
-- **Tailwind Optimization**: Configured customized Tailwind setups with PurgeCSS for production
-- **Bootstrap Customization**: Extended Bootstrap with custom components and optimized builds
-
-<br>
 
 <!-- Learning Section Divider -->
 <div align="center">
@@ -111,11 +76,10 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 I'm currently focusing on improving my skills in:
 
-- ⚛️ Advanced CSS architectures and micro-interactions
-- 📱 Modern React patterns and TypeScript best practices
-- ☁️ Design systems and component libraries
-- 🧠 Performance optimization for web applications
-- 🔐 Web accessibility and inclusive design
+- ⚛️ Improving my skill in Mern Stack
+- 📱 Improving my skill in js and type script
+- ☁️ Improving my self in UI
+- 🧠 Improving my skill in Backend
 
 <!-- Projects Section Divider -->
 <div align="center">
@@ -138,32 +102,6 @@ I'm currently focusing on improving my skills in:
   <a href="https://github.com/Mehul1940/Pokemon_JS_DATA_FETCH.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Pokemon_JS_DATA_FETCH&theme=radical&show_owner=true" alt="Pokemon_JS_DATA_FETCH Project">
   </a>
-</div>
-
-## 💼 CSS Project Showcases
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <h3>🎨 UI Component Library</h3>
-    <p>A custom design system built with Sass architecture, featuring:</p>
-    <ul>
-      <li>Modular CSS with BEM methodology</li>
-      <li>Responsive components with CSS Grid</li>
-      <li>A11y-compliant focus states and animations</li>
-      <li>Theme switching system with CSS variables</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px;">
-    <h3>✨ Interactive Dashboard</h3>
-    <p>A fully responsive admin dashboard using:</p>
-    <ul>
-      <li>Complex CSS Grid layouts for data visualization</li>
-      <li>Custom styled form elements and controls</li>
-      <li>Data-driven charts with CSS animations</li>
-      <li>Performance optimized for production</li>
-    </ul>
-  </div>
 </div>
 
 <!-- Learning Section Divider -->
