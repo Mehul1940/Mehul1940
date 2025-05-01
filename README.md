@@ -96,8 +96,8 @@ I'm currently focusing on improving my skills in:
   <a href="https://github.com/Mehul1940/Medical_Report.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Medical_Report&theme=radical&show_owner=true" alt="Medical_Report Project">
   </a>
-  <a href="https://github.com/Mehul1940/Django.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Django&theme=radical&show_owner=true" alt="Django Project">
+  <a href="https://github.com/Mehul1940/FlavorFiesta.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=FlavorFiesta&theme=radical&show_owner=true" alt="FlavorFiesta Project">
   </a>
   <a href="https://github.com/Mehul1940/Pokemon_JS_DATA_FETCH.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Pokemon_JS_DATA_FETCH&theme=radical&show_owner=true" alt="Pokemon_JS_DATA_FETCH Project">
