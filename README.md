@@ -99,8 +99,8 @@ I'm currently focusing on improving my skills in:
   <a href="https://github.com/Mehul1940/FlavorFiesta.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=FlavorFiesta&theme=radical&show_owner=true" alt="FlavorFiesta Project">
   </a>
-  <a href="https://github.com/Mehul1940/Pokemon_DATA_FETCH.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Pokemon_JS_DATA_FETCH&theme=radical&show_owner=true" alt="Pokemon_JS_DATA_FETCH Project">
+  <a href="https://github.com/Mehul1940/Pokemon_Data_Fetcher.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Pokemon_DATA_FETCH&theme=radical&show_owner=true" alt="Pokemon_DATA_FETCH Project">
   </a>
 </div>
 
