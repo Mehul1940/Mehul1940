@@ -76,7 +76,7 @@ I'm a passionate full stack developer from India who loves building elegant solu
 
 I'm currently focusing on improving my skills in:
 
-- ⚛️ Improving my skill in Mern Stack
+- ⚛️ Improving my skill in Machine Learning
 - 📱 Improving my skill in js and type script
 - ☁️ Improving my self in UI
 - 🧠 Improving my skill in Backend
@@ -90,17 +90,17 @@ I'm currently focusing on improving my skills in:
 
 <!-- Animated Project Cards -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://github.com/Mehul1940/salon.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Salon&theme=radical&show_owner=true" alt="Salon Project">
-  </a>
-  <a href="https://github.com/Mehul1940/Medical_Report.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Medical_Report&theme=radical&show_owner=true" alt="Medical_Report Project">
+  <a href="https://github.com/Mehul1940/STM.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=STM&theme=radical&show_owner=true" alt="Society Management Project">
   </a>
   <a href="https://github.com/Mehul1940/FlavorFiesta.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=FlavorFiesta&theme=radical&show_owner=true" alt="FlavorFiesta Project">
   </a>
-  <a href="https://github.com/Mehul1940/Pokemon_Data_Fetcher.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Pokemon_Data_Fetcher&theme=radical&show_owner=true" alt="Pokemon_Data_Fetcher Project">
+   <a href="https://github.com/Mehul1940/Medical_Report.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Medical_Report&theme=radical&show_owner=true" alt="Medical_Report Project">
+  </a>
+  <a href="https://github.com/Mehul1940/relevance.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=relevance&theme=radical&show_owner=true" alt="Relevance - Ecommerce Project">
   </a>
 </div>
 
