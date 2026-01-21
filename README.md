@@ -135,7 +135,7 @@ I'm currently focusing on improving my skills in:
   <h2>📬 Connect With Me</h2>
   <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mehul1940)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bokde-mehul-230b3b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokdemehul870@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-rlvo.vercel.app)
   
