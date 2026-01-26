@@ -93,8 +93,8 @@ I'm currently focusing on improving my skills in:
   <a href="https://github.com/Mehul1940/STM.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=STM&theme=radical&show_owner=true" alt="Society Management Project">
   </a>
-  <a href="https://github.com/Mehul1940/FlavorFiesta-master.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=FlavorFiesta&theme=radical&show_owner=true" alt="FlavorFiesta Project">
+  <a href="https://github.com/Mehul1940/portfolio.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Portfolio&theme=radical&show_owner=true" alt="Portfolio">
   </a>
    <a href="https://github.com/Mehul1940/Medical_Report.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehul1940&repo=Medical_Report&theme=radical&show_owner=true" alt="Medical_Report Project">
